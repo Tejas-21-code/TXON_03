@@ -1,0 +1,26 @@
+input {
+  border-radius: 14px;
+  width: 450px;
+  height: 30px;
+  margin: 20px;
+  border-style: hidden;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  color: rgb(33, 33, 33);
+  border: 0;
+  outline: 0;
+  padding: 8px;
+}
+
+input:focus {
+  background-color: antiquewhite;
+  outline: none;
+}
+
+button {
+  font-size: 20px;
+  border-radius: 6px;
+  border: none;
+  padding: 9px;
+  background-color: antiquewhite;
+}
